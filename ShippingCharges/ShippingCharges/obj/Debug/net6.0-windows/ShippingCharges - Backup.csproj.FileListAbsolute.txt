@@ -1,0 +1,1 @@
+C:\ApplicationDevelopment\YouProject\ShippingCharges\ShippingCharges\obj\Debug\net6.0-windows\ShippingCharges - Backup.csproj.AssemblyReference.cache
